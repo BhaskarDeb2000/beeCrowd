@@ -1,9 +1,9 @@
 #include <stdio.h>
 int main()
 {
-    int a, b, PROD;
-    scanf("%d\n%d\n", &a, &b);
-    PROD = a * b;
+    int A, B, PROD;
+    scanf("%d\n%d\n", &A, &B);
+    PROD = A * B;
 
     printf("PROD = %d\n", PROD);
 
