@@ -1,3 +1,5 @@
+// Grade Average Counter
+
 #include <stdio.h>
 int main()
 {
