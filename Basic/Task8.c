@@ -1,3 +1,5 @@
+// Difference with multiplication
+
 #include <stdio.h>
 int main()
 {
