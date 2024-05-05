@@ -1,3 +1,5 @@
+// Simple Product
+
 #include <stdio.h>
 int main()
 {
