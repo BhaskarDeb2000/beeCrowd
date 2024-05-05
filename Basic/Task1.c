@@ -3,9 +3,9 @@
 int main()
 {
 
-    int a, b, X;
+    int a, b, x;
     scanf("%d\n%d", &a, &b);
-    X = a + b;
-    printf("X = %d\n", X);
+    x = a + b;
+    printf("X = %d\n", x);
     return 0;
 }
